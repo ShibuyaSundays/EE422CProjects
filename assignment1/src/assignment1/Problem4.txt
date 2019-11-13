@@ -1,0 +1,10 @@
+Name: Isaac Lee
+EID: itl96
+Date: 9/10/2019
+
+Problem 4:
+I expect to learn and become very familiar with the language of Java, from classes to sorts and searches (sort of like what we covered in 312), and further expanding it into more applicable scenarios to relaly make the Java language shine, like Android app development that Dr. Thomaz has stressed will be touched upon in class.
+
+If given more time, I would like to touch on cloud computing, applications, machine learning and some algorithms in Java, which I believe would be both useful in the future and extremely intriguing.
+
+
